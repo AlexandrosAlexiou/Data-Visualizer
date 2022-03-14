@@ -5,8 +5,6 @@
 The application UI was built using [Angular Material](https://material.angular.io/guide/getting-started). <br>
 The charts were rendered using the [ngx-charts](https://github.com/swimlane/ngx-charts) framework. <br>
 
-![Sample Graph](https://github.com/AlexandrosAlexiou/Statify/blob/master/src/assets/sample-graph.png)
-
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`.<br/> The app will automatically reload if you change any of the source files.
